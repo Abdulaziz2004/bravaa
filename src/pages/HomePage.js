@@ -3,10 +3,10 @@ import Category from "../components/category/Category";
 
 function HomePage() {
   return (
-    <>
+    <main>
       <NavHeaderMain />
       <Category />
-    </>
+    </main>
   );
 }
 

@@ -78,6 +78,8 @@ export const Main = styled.div`
       bottom: 5%;
       left: 15%;
       z-index: 3444;
+      box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px,
+        rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
 
       .title {
         padding: 30px;

@@ -2,7 +2,7 @@ import category from "../../assats/img/category-doctor.jpg";
 import { Container } from "../../Wrapper";
 import { Main } from "./Category.styled";
 import category2 from "../../assats/img/dactor4.jpg";
-import doctorsvg from "../../assats/img/doctorsvg.jpeg";
+import doctorsvg from "../../assats/icon/docyor5.png";
 
 function Cetegory() {
   return (

@@ -50,5 +50,4 @@ export const SliderStyled = styled.div`
       }
     }
   }
-
 `;
